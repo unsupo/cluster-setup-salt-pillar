@@ -5,5 +5,5 @@ base:
   '*':
     - salt.minion
 
-  'master':
+  'salt':
     - salt.master

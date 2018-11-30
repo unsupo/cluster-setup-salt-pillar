@@ -8,3 +8,4 @@ salt_formulas:
   list:
     base:
       - salt-formula
+      - salt-formula-linux
