@@ -2,7 +2,7 @@ salt:
   # salt minion config:
   minion:
     # single master setup
-    master: salt
+    master: master-server
 
     # Define a minion scheduler
     schedule:
