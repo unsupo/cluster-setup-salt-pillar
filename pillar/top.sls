@@ -7,5 +7,5 @@ base:
   '*':
     - salt.minion
 
-  'salt':
+  'master-server':
     - salt.master
